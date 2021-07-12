@@ -1,0 +1,79 @@
+{
+ "sections": [
+  {
+   "id": "ac4fcaae-d350-376c-ea55-9e00af2ee58f",
+   "title": "Test-Driven Development",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "code/exercise1/Pitcher.java",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "code/exercise1/PitcherTester.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Driven-Development-ac4f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4b54d97d-71a4-d619-a372-16728ac0d5d7",
+   "title": "Using the Terminal",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "code/exercise1/Pitcher.java",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "code/exercise1/PitcherTester.java",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: clear",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-the-Terminal-4b54.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
