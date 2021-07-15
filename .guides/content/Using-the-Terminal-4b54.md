@@ -9,12 +9,12 @@ Then create the `Player` class. Your class should pass all of your unit tests.
 ## Running Your Code
 
 Enter the following command in the terminal to compile your Java files.
-```markdown
+```bash
 javac -cp jars/* code/exercise1/Pitcher.java code/exercise1/PitcherTester.java code/exercise1/PitcherTestRunner.java code/exercise1/BaseballPlayer.java
 ```
 
 Enter the following command to run your unit tests.
-```markdown
+```bash
 java -cp jars/*:code/exercise1:. PitcherTestRunner
 ```
 
